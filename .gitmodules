@@ -21,3 +21,6 @@
 [submodule "lib/tokentable-v2-evm"]
 	path = lib/tokentable-v2-evm
 	url = https://github.com/EthSign/tokentable-v2-evm
+[submodule "lib/ERC721A-Upgradeable"]
+	path = lib/ERC721A-Upgradeable
+	url = https://github.com/chiru-labs/ERC721A-Upgradeable
