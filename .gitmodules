@@ -18,3 +18,6 @@
 [submodule "lib/croptop-contracts"]
 	path = lib/croptop-contracts
 	url = https://github.com/mejango/croptop-contracts
+[submodule "lib/tokentable-v2-evm"]
+	path = lib/tokentable-v2-evm
+	url = https://github.com/EthSign/tokentable-v2-evm
